@@ -247,6 +247,7 @@ h1, h2, h3{
 
 .sec4-btn1:hover {
     cursor: pointer;
+    background-color: hsl(171, 58%, 49%);
     box-shadow: 0px 2px 2px rgb(20 153 114);
 }
 
@@ -262,6 +263,7 @@ h1, h2, h3{
 
 .sec4-btn2:hover {
     cursor: pointer;
+    background-color: hsl(233, 100%, 73%);
     box-shadow: 0px 2px 2px rgb(53, 81, 193);
 }
 /* end section4 */
@@ -306,6 +308,7 @@ h1, h2, h3{
     width: 26%;
     color: hsl(210, 10%, 33%);
     text-decoration: none;
+    margin-bottom: 17px;
 }
 .link-foot a:hover {
     color:hsl(171, 66%, 44%);
